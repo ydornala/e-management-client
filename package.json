@@ -1,0 +1,22 @@
+{
+  "name": "e-management-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "mdbreact": "^4.19.0",
+    "next": "9.0.3",
+    "next-compose-plugins": "^2.2.0",
+    "next-fonts": "^0.17.0",
+    "next-images": "^1.1.2",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "restful-react": "^7.1.1"
+  }
+}
