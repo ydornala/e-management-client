@@ -13,13 +13,13 @@ const Nav = () => (
   <nav>
     <ul className="nav justify-content-end">
       <li className="nav-item">
-        <Link className="nav-link" href="/" >
-          <a>Home</a>
+        <Link href="/" >
+          <a className="nav-link">Home</a>
         </Link>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" href="/login" >
-          <a>Employee Login</a>
+        <Link href="/login" >
+          <a className="nav-link">Employee Login</a>
         </Link>
       </li>
     </ul>
